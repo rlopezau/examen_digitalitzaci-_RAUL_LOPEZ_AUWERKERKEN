@@ -1,0 +1,11 @@
+html{
+    font-style: italic;
+}
+
+.index{
+    background-color: rgb(255, 187, 187);
+}
+
+.menu{
+    flex-direction: column;
+}
